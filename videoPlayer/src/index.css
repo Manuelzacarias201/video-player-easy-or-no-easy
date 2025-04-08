@@ -1,0 +1,11 @@
+@import "tailwindcss";
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+  color: #ffffff;
+}
+
+body {
+  overflow: scroll; 
+}
